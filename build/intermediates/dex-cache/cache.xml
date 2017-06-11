@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/horitadaichi/.android/build-cache/e50667b8eff35aa15030afd439de2cdde9a27279/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Users/horitadaichi/programing/hackson/UECmonokon2017/FriendsFinder/FaceTracker/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8c162e4e32a523435d93b4afbc6d209f1933befd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/horitadaichi/.android/build-cache/501109954e292a455bad0128d177a07ebb5f6e15/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Users/horitadaichi/programing/hackson/UECmonokon2017/FriendsFinder/FaceTracker/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_55ab0b361f3c33d5de3036f381eec484c3ae6aa5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/horitadaichi/.android/build-cache/eef2cb31556a3e90ee88f13c93b7c9da91cc2fb1/output/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Users/horitadaichi/programing/hackson/UECmonokon2017/FriendsFinder/FaceTracker/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_353e635ac23447e6274fa394001656b0b06174de/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/horitadaichi/.android/build-cache/998c97314214e6741a04b96b46c9aeea4df69951/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Users/horitadaichi/programing/hackson/UECmonokon2017/FriendsFinder/FaceTracker/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_25da420e2efb483afddc9d791e3d59f09deb6e55/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/horitadaichi/.android/build-cache/cc6dbe757c2e572d93095875de22f74bc4775345/output/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Users/horitadaichi/programing/hackson/UECmonokon2017/FriendsFinder/FaceTracker/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_166942d860d15bef434863c4872f5b44960d52c2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/horitadaichi/.android/build-cache/27bfe41bc61a2d0d8f30122ac2ff4a4312b933b6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="/Users/horitadaichi/programing/hackson/UECmonokon2017/FriendsFinder/FaceTracker/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bdb4ac233f123ef71f42680cd87d6d5f09f821c2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/horitadaichi/.android/build-cache/e50667b8eff35aa15030afd439de2cdde9a27279/output/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Users/horitadaichi/programing/hackson/UECmonokon2017/FriendsFinder/FaceTracker/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_317b1fcf23549b20b4947e1a58013339ebd93884/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/horitadaichi/.android/build-cache/aab13ef21a3cb2f8be0e8d66ec75a9fadff46f94/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Users/horitadaichi/programing/hackson/UECmonokon2017/FriendsFinder/FaceTracker/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_281f1f1bf24f387861398aa4ef5590ddf830df74/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/horitadaichi/.android/build-cache/231e9b00ec6d48d0fee7e25751bf23f7c9354a81/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2e296abe79b677a804cab2ecaf33b294c93993b5">
+        <dex dex="/Users/horitadaichi/programing/hackson/UECmonokon2017/FriendsFinder/FaceTracker/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f110f1b9b2e4e325584eefcd984ba734bef7f411/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/horitadaichi/.android/build-cache/080513900873769b98e0362a067eeb68ecdecb47/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="670df81539ab71918d49b186598b7eff08ef6563">
+        <dex dex="/Users/horitadaichi/programing/hackson/UECmonokon2017/FriendsFinder/FaceTracker/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b5daf581f3daa6f11f85ac1c0c5be75fd3d343fc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/horitadaichi/programing/hackson/UECmonokon2017/FriendsFinder/FaceTracker/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f4d3877c49f01a6ae71a9201dfb1190aeeb79b5d">
+        <dex dex="/Users/horitadaichi/programing/hackson/UECmonokon2017/FriendsFinder/FaceTracker/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_013639afa7fcb1d6c25523548cf0924855159c81/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/horitadaichi/.android/build-cache/c198d3833ec1a2762cec273cbbededd4c4cd5667/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="/Users/horitadaichi/programing/hackson/UECmonokon2017/FriendsFinder/FaceTracker/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5720f734744e857f0de8a2bca708fa12805a2e4f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/horitadaichi/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/Users/horitadaichi/programing/hackson/UECmonokon2017/FriendsFinder/FaceTracker/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.0_d30ae701363482868084cde6647ad2950ec8227d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/horitadaichi/.android/build-cache/a3bac094d00bb5bd2c9c87e2ed06dcc50ab2dc50/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Users/horitadaichi/programing/hackson/UECmonokon2017/FriendsFinder/FaceTracker/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f85091455dba2dcc994204bf0d7f8514fea0dbe7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/horitadaichi/programing/hackson/UECmonokon2017/FriendsFinder/FaceTracker/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/horitadaichi/programing/hackson/UECmonokon2017/FriendsFinder/FaceTracker/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_635a6bfdaf44bb8e632306d717dccecd59ac18cd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/horitadaichi/.android/build-cache/a3bac094d00bb5bd2c9c87e2ed06dcc50ab2dc50/output/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Users/horitadaichi/programing/hackson/UECmonokon2017/FriendsFinder/FaceTracker/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_82bdf1727ecfea1b34d44cbd521aa4954db0e4cc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/horitadaichi/.android/build-cache/1ebf0b837108b3180c893ba2eaa2028ac95c0661/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="/Users/horitadaichi/programing/hackson/UECmonokon2017/FriendsFinder/FaceTracker/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6b8f38a2a96113487a789b438393e67574cc7c7b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/horitadaichi/.android/build-cache/125bafca5e1298db9c9f59ff08f0bf1c786b1050/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="/Users/horitadaichi/programing/hackson/UECmonokon2017/FriendsFinder/FaceTracker/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7607387b07471eb47a0526bfd7da13f04c1d5cda/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/horitadaichi/.android/build-cache/eef2cb31556a3e90ee88f13c93b7c9da91cc2fb1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Users/horitadaichi/programing/hackson/UECmonokon2017/FriendsFinder/FaceTracker/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c800bd9416c97da970783b8b8a749f097e9cd5a0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/horitadaichi/.android/build-cache/839d4de8d6f2c943387eda81162d79b06c02bb57/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Users/horitadaichi/programing/hackson/UECmonokon2017/FriendsFinder/FaceTracker/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_eba8ada3a3b63ca249c42c734d1a5fb3ee601004/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/horitadaichi/.android/build-cache/cc6dbe757c2e572d93095875de22f74bc4775345/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Users/horitadaichi/programing/hackson/UECmonokon2017/FriendsFinder/FaceTracker/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_70c9506d1c8888b3d02d48ba7ac0e46779b37eb2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/horitadaichi/.android/build-cache/1fb2a3c10ead0d3031cd9bdb8934c1b59b599b77/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Users/horitadaichi/programing/hackson/UECmonokon2017/FriendsFinder/FaceTracker/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3d4fb926bce5bc36907c5c4e6f9b22617193d893/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/horitadaichi/.android/build-cache/501109954e292a455bad0128d177a07ebb5f6e15/output/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Users/horitadaichi/programing/hackson/UECmonokon2017/FriendsFinder/FaceTracker/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_b93cd7356eff9a6d85672158bca7a681a88a3e57/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/horitadaichi/.android/build-cache/d3d80b224271de583de2625cc73ee25075e928d7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="/Users/horitadaichi/programing/hackson/UECmonokon2017/FriendsFinder/FaceTracker/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7ec60dd13149450e0cab1c2637abb4e0ba32a9d8/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,4 @@
+#Sat Jun 10 11:39:59 JST 2017
+base.0=/Users/horitadaichi/programing/hackson/UECmonokon2017/FriendsFinder/FaceTracker/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7
+renamed.0=classes.dex
+file.0=/Users/horitadaichi/programing/hackson/UECmonokon2017/FriendsFinder/FaceTracker/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex
